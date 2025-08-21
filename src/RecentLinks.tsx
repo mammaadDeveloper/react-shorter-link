@@ -1,8 +1,8 @@
 export default function RecentLinks() {
   const links = [
     {
-      short: "",
-      full: "",
+      short: "sha256",
+      full: "http://google.com",
     },
   ];
   return (
