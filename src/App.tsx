@@ -6,7 +6,7 @@ import './styles/app.scss';
 function App() {
   return (
     <div className="app w-full h-screen flex justify-center items-center">
-      <div className="container m-2 p-6 bg-white rounded-2xl">
+      <div className="container m-2 bg-white rounded-2xl">
         <Header />
         <main>
           <ShortenBox />
